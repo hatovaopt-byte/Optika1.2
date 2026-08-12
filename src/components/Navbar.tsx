@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'; 
 import { Eye, Phone, MapPin, Menu, X, Calendar, MessageCircle, Navigation, Glasses } from 'lucide-react';
 import { BUSINESS_INFO } from '../data/opticsData';
 import logoImg from '../assets/images/optics_logo_1786106308756.jpg';
