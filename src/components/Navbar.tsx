@@ -16,7 +16,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeTab, setActiveTab, onOpenB
     { id: 'booking', label: 'בדיקת ראייה ותיאום תור' },
     { id: 'about', label: 'אודות - אופטיקה חברתית' },
     { id: 'faq', label: 'שאלות ותשובות' },
-    { id: 'contact', label: 'צור קשר והוראות הגעה' },
+    { id: 'contact', label: 'צור קשר והוראות הגעה' }, 
   ];
 
   const handleNavClick = (id: string) => {
